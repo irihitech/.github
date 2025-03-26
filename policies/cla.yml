@@ -3,8 +3,7 @@ description: .NET Foundation CLA policy file
 
 resource: repository
 where:
-- |
-  repository.name.equals("Ursa.Avalonia", StringComparison.InvariantCultureIgnoreCase)
+- repository.name.equals("Ursa.Avalonia", StringComparison.InvariantCultureIgnoreCase)
   
 configuration: 
    cla:
